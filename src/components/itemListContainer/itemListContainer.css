@@ -1,0 +1,12 @@
+.greeting {
+    background-color: #666F98;
+    text-align: center;
+
+}
+
+.greeting h1{
+    color: white;
+    font-size: 3rem;
+    margin: 0%;
+    padding: 1rem;
+}
